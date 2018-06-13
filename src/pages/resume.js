@@ -28,7 +28,7 @@ class Generic extends React.Component {
 export default Generic
 
 export const pageQuery = graphql`
-  query GenericQuery {
+  query GenericQueryResume {
     site {
       siteMetadata {
         title
