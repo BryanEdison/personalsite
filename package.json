@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-stellar",
-  "description": "Gatsby Starter - Stellar by HTML5 UP",
+  "name": "Bryan Edison",
+  "description": "My personal site",
   "version": "1.0.0",
-  "author": "Hunter Chang",
+  "author": "Bryan Edison",
   "dependencies": {
     "gatsby": "^1.9.235",
     "gatsby-image": "^1.0.42",

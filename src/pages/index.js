@@ -80,12 +80,17 @@ class Index extends React.Component {
                 <h3>We-sell-things</h3>
                 <p>An e-commerce platform for selling out of the ordinary and impractical things.</p>
               </li>
+              <li>
+                <span className="icon major style5 fa-tint"></span>
+                <h3>FishGarde</h3>
+                <p>A chatbot/mobile app, developed over a 2 day hackathon, which scraped information from the DEC and alerted recreational fishers on fishing seasons, endangered species, and fish size restrictions.</p>
+              </li>
 
             </ul>
             <footer className="major">
-              <ul className="actions">
+             {/* <ul className="actions">
                 <li><Link to="/generic" className="button">More Projects</Link></li>
-              </ul>
+    </ul> */}
             </footer>
           </section>
 
