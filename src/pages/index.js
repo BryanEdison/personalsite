@@ -78,7 +78,7 @@ class Index extends React.Component {
               <li>
                 <span className="icon major style5 fa-cart-plus"></span>
                 <h3>We-sell-things</h3>
-                <p>An e-commerce platform for selling out of the ordinary and impractical things.</p>
+                <p>An e-commerce platform for selling products out of the ordinary, and impractical things.</p>
               </li>
               <li>
                 <span className="icon major style5 fa-tint"></span>
