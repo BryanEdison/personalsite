@@ -49,7 +49,7 @@ class Index extends React.Component {
                 </header>
                 <p>After building a ride-sharing platform for an entrepreneurship class project in college, I gained an appreciation and fascination for programming.</p>
 
-                <p>I graduated from Binghamton University and double majored in Economics and Sociology, with a minor in Chinese Studies. After briefly working in the renewable energy sector, I took the plunge into the world of web development and couldn't be happier.</p>
+                <p>I graduated from Binghamton University and double majored in Economics and Sociology, with a minor in Chinese Studies. After briefly working in the renewable energy sector, I took the plunge into the world of software development and couldn't be happier.</p>
               </div>
               <span className="image"><img src={pic01} alt="" /></span>
             </div>
