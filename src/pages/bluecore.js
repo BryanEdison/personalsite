@@ -27,7 +27,7 @@ class BlueCore extends React.Component {
 export default BlueCore
 
 export const pageQuery = graphql`
-  query GenericQuery {
+  query BlueCoreQuery {
     site {
       siteMetadata {
         title
