@@ -28,7 +28,7 @@ class BlueCore extends React.Component {
   }
 }
 
-export default Generic
+export default BlueCore;
 
 export const pageQuery = graphql`
   query GenericQuery {
