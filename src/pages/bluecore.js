@@ -13,6 +13,9 @@ class BlueCore extends React.Component {
         <Helmet title={get(this, 'props.data.site.siteMetadata.title')} />
       <Header/>
 
+      <section id="intro" className="main">
+      <div className="spotlight">
+        <div className="content">
       <header className="major">
                   <h2>Hi BlueCore!</h2>
                 </header>
@@ -23,6 +26,9 @@ class BlueCore extends React.Component {
             <span className="image"><img src={pic01} alt="" /></span>
             </section>
         </div>
+      </div>
+      </div>
+      </section>
       </div>
     )
   }
