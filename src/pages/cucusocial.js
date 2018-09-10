@@ -45,7 +45,7 @@ class Cucusocial extends React.Component {
       <header className="major">
                   <h2>Hi Cucusocial!</h2>
             </header>
-            <p>I'm sincerely interested in working for you. I saw an open position for both front-end and fullstack software engineer and I am interested in applying to both.</p>
+            <p>I'm sincerely interested in working for you. I saw an open position for both front-end and fullstack software engineer and I am interested in applying to both. Interestingly, I first came across Cucusocial on EventBrite when planning an event and recognized you upon seeing the AngelList jobs posting.</p>
             <p>I graduated from Fullstack 3 months ago and I am currently a Software Engineer at SploreGuide, a tourism marketplace startup. I'm currently working on building out their Web and Mobile apps using React, React-Native, MongoDB, Apollo-Express, and GraphQL. </p>
             <p>Prior to programming, I graduated from Binghamton University with a double degree in Economics and Sociology, and a minor in Chinese Studies. After attempting to innovate ride-sharing among college students with a web app in college, I became hooked into world of software development.</p>
         </div>
