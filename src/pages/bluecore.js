@@ -14,7 +14,7 @@ class BlueCore extends React.Component {
       <Header/>
 
       <header className="major">
-                  <h2>Hey BlueCore</h2>
+                  <h2>Hi BlueCore!</h2>
                 </header>
         <div id="main">
             <p>I'm sincerely interested in working for you. I missed to formally meet you Fullstack's launch day but I hope that's not a deterrent in applying. It was still great meeting you John and Andrew!</p>
