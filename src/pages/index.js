@@ -71,29 +71,29 @@ class Index extends React.Component {
                 <span className="icon major style1 fa-car"></span>
                 <h3>BayRide</h3>
                 <p>A ride-sharing mobile app where drivers can bid on pickup requests for lower ride prices</p>
-                <h5>Javascript, React-Native, Google Firestore, Google Maps API, Node.js
-                </h5>
+                <h6>Javascript, React-Native, Google Firestore, Google Maps API, Node.js
+                </h6>
               </li>
               <li>
                 <span className="icon major style1 fa-car"></span>
                 <h3>ParkuPied</h3>
                 <p>A​ crowd-sourced mobile parking application matching parkers and open spots</p>
-                <h5>Javascript, React-Native, Google Firestore, Google Maps API, Node.js
-                </h5>
+                <h6>Javascript, React-Native, Google Firestore, Google Maps API, Node.js
+                </h6>
               </li>
               <li>
                 <span className="icon major style3 fa-link"></span>
                 <h3>BitVote</h3>
                 <p>A quadratic-voting application powered on the Ethereum Blockchain</p>
-                <h5>Javascript, Node.js, React, Solidity, Web3
-                </h5>
+                <h6>Javascript, Node.js, React, Solidity, Web3
+                </h6>
               </li>
               <li>
                 <span className="icon major style5 fa-cart-plus"></span>
                 <h3>We-sell-things</h3>
                 <p>E-commerce platform for selling a collection of miscellaneous novelty items</p>
-                <h5>JavaScript, Node.js, React-Redux, PostgreSQL, Sequelize, Express, Git, HTML, CSS, Stripe
-                </h5>
+                <h6>JavaScript, Node.js, React-Redux, PostgreSQL, Sequelize, Express, Git, HTML, CSS, Stripe
+                </h6>
               </li>
               <li>
                 <span className="icon major style5 fa-tint"></span>
@@ -101,16 +101,12 @@ class Index extends React.Component {
                 <p>
                 2nd Place Hackathon project - chatbot/mobile app relaying info
                  scraped from the DEC and alerted recreational fishers on fishing seasons, endangered species, and fish size restrictions.</p>
-                 <h5>Javascript, Node.js, Twilio API
-                </h5>
+                 <h6>Javascript, Node.js, Twilio API
+                </h6>
               </li>
 
             </ul>
-            <footer className="major">
-             {/* <ul className="actions">
-                <li><Link to="/generic" className="button">More Projects</Link></li>
-    </ul> */}
-            </footer>
+            <footer className="major"/>
           </section>
 
           <section id="second" className="main special">

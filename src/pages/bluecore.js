@@ -53,38 +53,51 @@ class BlueCore extends React.Component {
       </section>
 
       <section id="first" className="main special">
-      <header className="major">
-        <h2>Projects</h2>
-      </header>
-      <ul className="features">
-        <li>
-          <span className="icon major style1 fa-car"></span>
-          <h3>ParkuPied</h3>
-          <p>A crowd-sourced mobile parking application. This application allows people to give up or look for parking spots in the cities, matching users with closest parkers/spots.</p>
-        </li>
-        <li>
-          <span className="icon major style3 fa-link"></span>
-          <h3>BitVote</h3>
-          <p>BitVote is a quadratic-voting application powered on the Ethereum Blockchain. Users can vote on different elections through intensity of preferences as opposed to our current one person, one vote system. </p>
-        </li>
-        <li>
-          <span className="icon major style5 fa-cart-plus"></span>
-          <h3>We-sell-things</h3>
-          <p>An e-commerce platform for selling products out of the ordinary, and impractical things.</p>
-        </li>
-        <li>
-          <span className="icon major style5 fa-tint"></span>
-          <h3>FishGarde</h3>
-          <p>A chatbot/mobile app, developed over a 2 day hackathon, which scraped information from the DEC and alerted recreational fishers on fishing seasons, endangered species, and fish size restrictions.</p>
-        </li>
+            <header className="major">
+              <h2>Projects</h2>
+            </header>
+            <ul className="features">
+            <li>
+                <span className="icon major style1 fa-car"></span>
+                <h3>BayRide</h3>
+                <p>A ride-sharing mobile app where drivers can bid on pickup requests for lower ride prices</p>
+                <h6>Javascript, React-Native, Google Firestore, Google Maps API, Node.js
+                </h6>
+              </li>
+              <li>
+                <span className="icon major style1 fa-car"></span>
+                <h3>ParkuPied</h3>
+                <p>A​ crowd-sourced mobile parking application matching parkers and open spots</p>
+                <h6>Javascript, React-Native, Google Firestore, Google Maps API, Node.js
+                </h6>
+              </li>
+              <li>
+                <span className="icon major style3 fa-link"></span>
+                <h3>BitVote</h3>
+                <p>A quadratic-voting application powered on the Ethereum Blockchain</p>
+                <h6>Javascript, Node.js, React, Solidity, Web3
+                </h6>
+              </li>
+              <li>
+                <span className="icon major style5 fa-cart-plus"></span>
+                <h3>We-sell-things</h3>
+                <p>E-commerce platform for selling a collection of miscellaneous novelty items</p>
+                <h6>JavaScript, Node.js, React-Redux, PostgreSQL, Sequelize, Express, Git, HTML, CSS, Stripe
+                </h6>
+              </li>
+              <li>
+                <span className="icon major style5 fa-tint"></span>
+                <h3>FishGarde</h3>
+                <p>
+                2nd Place Hackathon project - chatbot/mobile app relaying info
+                 scraped from the DEC and alerted recreational fishers on fishing seasons, endangered species, and fish size restrictions.</p>
+                 <h6>Javascript, Node.js, Twilio API
+                </h6>
+              </li>
 
-      </ul>
-      <footer className="major">
-       {/* <ul className="actions">
-          <li><Link to="/generic" className="button">More Projects</Link></li>
-</ul> */}
-      </footer>
-    </section>
+            </ul>
+            <footer className="major"/>
+          </section>
 
     <section id="second" className="main special">
       <header className="major">
