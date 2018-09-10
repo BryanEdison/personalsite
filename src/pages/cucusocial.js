@@ -9,7 +9,7 @@ import Link from 'gatsby-link'
 
 
 
-class Viagogo extends React.Component {
+class Cucusocial extends React.Component {
 
   constructor(props) {
     super(props);
@@ -43,9 +43,9 @@ class Viagogo extends React.Component {
       <div className="spotlight">
         <div className="content">
       <header className="major">
-                  <h2>Hi Viagogo!</h2>
+                  <h2>Hi Cucusocial!</h2>
             </header>
-            <p>I'm sincerely interested in working for you. I missed the chance to formally meet you at Fullstack's launch day but I hope that's not a deterrent in applying. It was great meeting you Shiyang and Keya!</p>
+            <p>I'm sincerely interested in working for you. I saw an open position for both front-end and fullstack software engineer and I am interested in applying to both.</p>
             <p>I graduated from Fullstack 3 months ago and I am currently a Software Engineer at SploreGuide, a tourism marketplace startup. I'm currently working on building out their Web and Mobile apps using React, React-Native, MongoDB, Apollo-Express, and GraphQL. </p>
             <p>Prior to programming, I graduated from Binghamton University with a double degree in Economics and Sociology, and a minor in Chinese Studies. After attempting to innovate ride-sharing among college students with a web app in college, I became hooked into world of software development.</p>
         </div>
@@ -146,10 +146,10 @@ class Viagogo extends React.Component {
   }
 }
 
-export default Viagogo
+export default Cucusocial
 
 export const pageQuery = graphql`
-  query ViagogoQuery {
+  query CCSQuery {
     site {
       siteMetadata {
         title
