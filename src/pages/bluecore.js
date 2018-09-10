@@ -19,8 +19,9 @@ class BlueCore extends React.Component {
         <div id="main">
             <p>I'm sincerely interested in working for you. I missed the chance to formally meet you Fullstack's launch day but I hope that's not a deterrent in applying. It was great meeting you John and Andrew!</p>
             <p>I graduated from Fullstack 3 months ago am currently a Software Engineer at SploreGuide, a tourism marketplace startup. I'm currently working on building out their React/React-Native front-end and integrating it with their MongoDB/GraphQL backend. </p>
+            <span className="image"><img src={pic01} alt="" /></span>
         </div>
-        <span className="image"><img src={pic01} alt="" /></span>
+
       </div>
     )
   }
