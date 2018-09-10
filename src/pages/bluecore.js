@@ -90,7 +90,7 @@ class BlueCore extends React.Component {
                 <h3>FishGarde</h3>
                 <p>
                 2nd Place Hackathon project - chatbot/mobile app relaying info
-                 scraped from the DEC and alerted recreational fishers on fishing seasons, endangered species, and fish size restrictions.</p>
+                 scraped from the DEC on fishing seasons, endangered species, and fish size restrictions.</p>
                  <h6>Javascript, Node.js, Twilio API
                 </h6>
               </li>
