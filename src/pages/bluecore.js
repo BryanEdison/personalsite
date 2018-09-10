@@ -5,6 +5,8 @@ import Header from '../components/Header';
 import pic01 from '../assets/images/me.jpg'
 import Nav from '../components/Nav'
 import Waypoint from 'react-waypoint'
+import Link from 'gatsby-link'
+
 
 
 class BlueCore extends React.Component {
