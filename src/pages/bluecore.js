@@ -8,6 +8,22 @@ import Waypoint from 'react-waypoint'
 
 
 class BlueCore extends React.Component {
+
+  constructor(props) {
+    super(props);
+    this.state = {
+      stickyNav: false
+    }
+  }
+
+  _handleWaypointEnter = () => {
+    this.setState(() => ({ stickyNav: false }));
+  }
+
+  _handleWaypointLeave = () => {
+    this.setState(() => ({ stickyNav: true }));
+  }
+
   render() {
 
     return (
