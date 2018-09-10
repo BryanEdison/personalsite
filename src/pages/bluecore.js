@@ -12,23 +12,20 @@ class BlueCore extends React.Component {
       <div>
         <Helmet title={get(this, 'props.data.site.siteMetadata.title')} />
       <Header/>
-
+      <div id="main">
       <section id="intro" className="main">
       <div className="spotlight">
         <div className="content">
       <header className="major">
                   <h2>Hi BlueCore!</h2>
-                </header>
-        <div id="main">
-        <section id="content" className="main">
+            </header>
             <p>I'm sincerely interested in working for you. I missed the chance to formally meet you Fullstack's launch day but I hope that's not a deterrent in applying. It was great meeting you John and Andrew!</p>
             <p>I graduated from Fullstack 3 months ago am currently a Software Engineer at SploreGuide, a tourism marketplace startup. I'm currently working on building out their React/React-Native front-end and integrating it with their MongoDB/GraphQL backend. </p>
             <span className="image"><img src={pic01} alt="" /></span>
-            </section>
         </div>
       </div>
-      </div>
       </section>
+      </div>
       </div>
     )
   }
