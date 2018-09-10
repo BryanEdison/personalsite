@@ -12,6 +12,8 @@ class Generic extends React.Component {
     return (
       <div>
         <Helmet title={get(this, 'props.data.site.siteMetadata.title')} />
+
+        <HeaderGeneric />
         <div id="main">
           <section id="content" className="main">
             <span className="image main"><img src={pic04} alt="" /></span>
