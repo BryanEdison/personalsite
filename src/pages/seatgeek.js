@@ -43,7 +43,7 @@ class SeatGeek extends React.Component {
       <div className="spotlight">
         <div className="content">
       <header className="major">
-                  <h2>Hi PriceLine!</h2>
+                  <h2>Hi SeatGeek!</h2>
             </header>
             <p>I'm sincerely interested in working for SeatGeek since using SeatGeek for personal tickets. After gaining interest in SeatGeek, I contacted Charlie DiGiovanna, a software Engineer at SeatGeek and a former colleague from Binghamton University, to inquire more about SeatGeek. After hearing back, I knew that SeatGeek would be a great fit for me. I saw an open position for front-end software engineer and immediately decided to reach out and apply. I love working with your tech stack and have completed several fullstack projects using them. </p>
             <p>I graduated from Fullstack 3 months ago and I am currently a Software Engineer at SploreGuide, a tourism marketplace startup. I'm currently working on building out their Web and Mobile apps using React, React-Native, MongoDB, Apollo-Express, and GraphQL. </p>
@@ -146,12 +146,12 @@ class SeatGeek extends React.Component {
   }
 }
 
-export default SeatGeek
+export default SeatGeek;
 
 export const pageQuery = graphql`
-  query PLQuery {
+  query SeatGeekQuery {
     site {
-      seatGeekMetadata {
+      siteMetadata {
         title
       }
     }
