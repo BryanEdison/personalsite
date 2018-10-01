@@ -43,7 +43,7 @@ class SevenRooms extends React.Component {
       <div className="spotlight">
         <div className="content">
       <header className="major">
-                  <h2>Hi BlueCore!</h2>
+                  <h2>Hi SevenRooms!</h2>
             </header>
             <p>I'm sincerely interested in working for SevenRooms since hearing about the company culture from an old colleague, Derek Norman. I find SevenRoom’s placement in the service industry as incredibly helpful. As someone who’s worked in the restaurant industry for 2+ years as a busser, runner, and server, I am excited to be able to help contribute to helping increase the organization and efficiency of the service industry.</p>
             <p>I saw an open position for a full-stack engineer and  immediately decided to reach out and apply. I love working with your tech stack and have completed several fullstack projects using them. I graduated from Fullstack 3 months ago and I am currently a Software Engineer at SploreGuide, a tourism marketplace startup. I'm currently working on building out their Web and Mobile apps using React, React-Native, MongoDB, Apollo-Express, and GraphQL.
