@@ -52,6 +52,7 @@ class SoulCycle extends React.Component {
             </p>
             <p>As a Software engineer at SoulCycle, I will be able to use my education and work experience to develop tests and provide front-end and back-end support, while actively contributing towards the engineering team’s development.
             </p>
+            <p>I will be attending the SoulCycle Front Row Talks next week and am happy to chat more then!</p>
         </div>
         <span className="image"><img src={pic01} alt="" /></span>
       </div>
